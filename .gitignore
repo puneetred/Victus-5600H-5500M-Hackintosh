@@ -1,0 +1,4 @@
+System Volume Information
+.DS_Store
+.*
+!/.gitignore
